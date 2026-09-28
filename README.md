@@ -1,4 +1,4 @@
-# shaghaghidev.github.io
+# shaghaghi-portfolio
 
 This repository contains my personal portfolio source code.
 
